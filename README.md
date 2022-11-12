@@ -1,3 +1,3 @@
 # SimpleDyno
 
-SimpleDyno is now archived as I don't have any more interest in continuing to develop it.
+You can download simpledyno from the "releases" section on the right.
